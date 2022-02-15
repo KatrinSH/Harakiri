@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using Xunit;
+
+namespace Suicid_Xarakiri
+{
+    public class Test
+    {
+        [Theory]
+        [InlineData(4, 5, 7, 8)]
+        [InlineData(3, 6, 1, 5)]
+        [InlineData(6, 2, 4, 6)]
+        [InlineData(15, 5, 2, 11)]
+        [InlineData(100, 50, 150, 150)]
+        [InlineData(7, 13, 10, 15)]
+        [InlineData(8, 12, 20, 20)]
+        [InlineData(9, 5, 16, 15)]
+        [InlineData(44, 6, 74, 62)]
+        [InlineData(14, 15, 1, 15)]
+        [InlineData(45, 55, 100, 100)]
+        [InlineData(400, 560, 40, 500)]
+        [InlineData(9, 2, 17, 14)]
+        [InlineData(12, 8, 60, 30)]
+        [InlineData(47, 95, 40, 2)]
+        [InlineData(3, 6, 3, 6)]
+        [InlineData(2, 9, 1, 6)]
+        [InlineData(1, 3, 9, 6)]
+        [InlineData(6, 2, 6, 7)]
+        [InlineData(8, 3, 9, 10)]
+
+
+        public void Test1(int a, int b, int c, int expected)
+        {
+            int actual = EmptyClass.Testing(a, b, c);
+            Assert.Equal(expected, actual);
+        }
+    }
+
+}
