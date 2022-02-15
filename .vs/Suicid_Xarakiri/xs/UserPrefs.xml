@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0902D061-D60B-45DD-84F4-B22A4D0007B4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Suicid__Xarakiri PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="EmptyClass.cs" Line="3" Column="1" />
+      <File FileName="Test.cs" Line="7" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Suicid_Xarakiri" expanded="True">
+            <Node name="Suicid_Xarakiri" expanded="True">
+              <Node name="Test.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
