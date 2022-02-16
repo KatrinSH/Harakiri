@@ -24,7 +24,7 @@ namespace Suicid_Xarakiri
         [InlineData(47, 95, 40, 91)]
         [InlineData(3, 6, 3, 6)]
         [InlineData(2, 9, 1, 6)]
-        [InlineData(1, 3, 9, 6)]
+        [InlineData(2, 5, 9, 8)]
         [InlineData(6, 2, 6, 7)]
         [InlineData(8, 3, 9, 10)]
 
