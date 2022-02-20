@@ -27,7 +27,7 @@ namespace Suicid_Xarakiri
         [InlineData(2, 9, 1, 6)]
         [InlineData(2, 5, 9, 8)]
         [InlineData(6, 2, 6, 7)]
-        [InlineData(10, 13, 7, 15)]
+        [InlineData(100, 100, 100, 150)]
 
    
         public void Test1(int a, int b, int c, int expected)
