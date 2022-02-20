@@ -3,7 +3,7 @@
 
 namespace Suicid_Xarakiri
 {
-    public class EmptyClass
+    public class Metod
     {
         
         public static int Testing(int a, int b, int c)
