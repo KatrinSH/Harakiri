@@ -33,6 +33,7 @@ namespace Suicid_Xarakiri
     
         public void Test1(int a, int b, int c, int expected)
         {
+            Console.WriteLine("1242434r43242323324322324323234");
             int actual = EmptyClass.Testing(a, b, c);
             Assert.Equal(expected, actual);
         }
