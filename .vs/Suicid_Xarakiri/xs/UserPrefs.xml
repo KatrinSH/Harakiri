@@ -2,15 +2,15 @@
   <MonoDevelop.Ide.ItemProperties.Suicid__Xarakiri PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="EmptyClass.cs" Line="6" Column="23" />
-      <File FileName="Test.cs" Line="31" Column="4" />
+      <File FileName="EmptyClass.cs" Line="6" Column="28" />
+      <File FileName="Test.cs" Line="10" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Suicid_Xarakiri" expanded="True">
             <Node name="Suicid_Xarakiri" expanded="True">
-              <Node name="EmptyClass.cs" selected="True" />
+              <Node name="Test.cs" selected="True" />
             </Node>
           </Node>
         </State>
