@@ -7,7 +7,7 @@ namespace Suicid_Xarakiri
     public class Test
     {
         [Theory]
-        [InlineData(3, 3, 6, 6)]
+        [InlineData(1, 1, 2, 2)]
         [InlineData(3, 6, 1, 5)]
         [InlineData(6, 2, 4, 6)]
         [InlineData(15, 5, 2, 11)]
@@ -29,6 +29,10 @@ namespace Suicid_Xarakiri
         [InlineData(10, 13, 7, 15)]
 
    
+
+
+
+
         public void Test1(int a, int b, int c, int expected)
         {
             int actual = EmptyClass.Testing(a, b, c);
