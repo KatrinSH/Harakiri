@@ -5973,19 +5973,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/dikyboom/.nuget/packages/": {}
+    "/Users/ekaterinasugaj/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dikyboom/Downloads/Harakiri/Suicid_Xarakiri.csproj",
+      "projectUniqueName": "/Users/ekaterinasugaj/Harakiri/Suicid_Xarakiri.csproj",
       "projectName": "Suicid_Xarakiri",
-      "projectPath": "/Users/dikyboom/Downloads/Harakiri/Suicid_Xarakiri.csproj",
-      "packagesPath": "/Users/dikyboom/.nuget/packages/",
-      "outputPath": "/Users/dikyboom/Downloads/Harakiri/obj/",
+      "projectPath": "/Users/ekaterinasugaj/Harakiri/Suicid_Xarakiri.csproj",
+      "packagesPath": "/Users/ekaterinasugaj/.nuget/packages/",
+      "outputPath": "/Users/ekaterinasugaj/Harakiri/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/dikyboom/.nuget/NuGet/NuGet.Config"
+        "/Users/ekaterinasugaj/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6045,7 +6045,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

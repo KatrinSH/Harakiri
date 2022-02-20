@@ -3,7 +3,11 @@
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="EmptyClass.cs" Line="15" Column="1" />
+<<<<<<< HEAD
       <File FileName="Test.cs" Line="10" Column="31" />
+=======
+      <File FileName="Test.cs" Line="10" Column="22" />
+>>>>>>> 00352738225ee95ccc49e83f69f5fc72bd45bfe4
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
