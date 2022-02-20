@@ -7,7 +7,7 @@ namespace Suicid_Xarakiri
     public class Test
     {
         [Theory]
-        [InlineData(1, 1, 2, 2)]
+        [InlineData(3, 1, 2, 3)]
         [InlineData(3, 6, 1, 5)]
         [InlineData(6, 2, 4, 6)]
         [InlineData(15, 5, 2, 11)]
