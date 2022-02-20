@@ -29,10 +29,6 @@ namespace Suicid_Xarakiri
         [InlineData(10, 13, 7, 15)]
 
    
-
-
-
-
         public void Test1(int a, int b, int c, int expected)
         {
             int actual = EmptyClass.Testing(a, b, c);
