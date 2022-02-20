@@ -8,6 +8,7 @@ namespace Suicid_Xarakiri
     {
         [Theory]
 
+
         [InlineData(3, 1, 2, 3)]
         [InlineData(3, 6, 1, 5)]
         [InlineData(6, 2, 4, 6)]
@@ -29,9 +30,10 @@ namespace Suicid_Xarakiri
         [InlineData(6, 2, 6, 7)]
         [InlineData(100, 100, 100, 150)]
 
-   
+    
         public void Test1(int a, int b, int c, int expected)
         {
+            Console.WriteLine("1");
             int actual = EmptyClass.Testing(a, b, c);
             Assert.Equal(expected, actual);
         }

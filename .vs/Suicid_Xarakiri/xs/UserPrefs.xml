@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{0902D061-D60B-45DD-84F4-B22A4D0007B4}|Default">
   <MonoDevelop.Ide.ItemProperties.Suicid__Xarakiri PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test.cs">
     <Files>
-      <File FileName="Test.cs" Line="30" Column="39" />
+      <File FileName="Test.cs" Line="12" Column="22" />
+      <File FileName="EmptyClass.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
